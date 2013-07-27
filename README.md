@@ -1,4 +1,5 @@
-nerfturret
+Nerf Turret
 ==========
 
-Code and schematics for a Rayven CS-18 converted to an Arduino turret
+This repository contains source code, schematics and documentation for how to convert a
+Nerf Rayven CS-18 into a turret, using an Arduino Uno and a Wii Nunchuck.
